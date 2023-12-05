@@ -622,6 +622,18 @@ footer a,
   color: var(--secondary-color);
 }
 
+footer a:hover,
+.terms a:hover {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.social-links:hover {
+  color: var(--primary-color);
+}
+
+
+
 /* Base style for the back-to-top button */
 .back-to-top {
   position: fixed;
