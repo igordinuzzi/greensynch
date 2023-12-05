@@ -616,6 +616,7 @@ footer a,
   color: var(--secondary-color);
 }
 
+/* Base style for the back-to-top button */
 .back-to-top {
   position: fixed;
   bottom: 20px;
@@ -635,3 +636,13 @@ footer a,
 body:target ~ .back-to-top {
   display: block;
 }
+
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  .back-to-top {
+      content: "↑"; /* Only show an arrow for mobile devices */
+      padding: 10px; /* Adjust padding for mobile */
+      font-size: 12px; /* Slightly larger font size for better visibility on mobile */
+  }
+}
+
