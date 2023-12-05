@@ -615,3 +615,23 @@ footer a,
   text-decoration: none;
   color: var(--secondary-color);
 }
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  text-decoration: none;
+  color: var(--tertiary-color);
+  background-color: var(--secondary-color);
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  display: none; /* Hidden by default */
+  z-index: 1000; /* Ensure it's above other elements */
+}
+
+/* Show the button when scrolled down */
+:target ~ .back-to-top,
+body:target ~ .back-to-top {
+  display: block;
+}
