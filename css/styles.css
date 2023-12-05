@@ -146,7 +146,7 @@ body {
   }
 
   .hero {
-    background-image: url('../img/hero.jpg'); /* Replace with your image path */
+    background-image: url('../img/landing/hero.jpg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     height: 1200px; /* Fixed height for large screens */
