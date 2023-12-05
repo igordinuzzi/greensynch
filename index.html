@@ -221,11 +221,26 @@
         <a href="https://github.com/igordinuzzi" target="_blank" aria-label="Visit Igor's GitHub profile">Made by Igor</a> 
       </p>
 </div>
+    <!-- Chatbot Toggle Button -->
+<button id="chatbotToggle" class="chatbot-toggle-btn">
+  <img src="img/chatbot/chatbot.png" alt="" class="chatbot-icon"> Chatbot
+</button>
+
+<!-- Chatbot HTML -->
+<div class="chatbot-container" id="chatbotContainer" style="display:none;">
+  <div class="chatbot-content" id="chatbotContent">
+      <button id="closeChatbotBtn" class="close-chatbot-btn">X</button>
+      <div class="chatbot-messages" id="chatbotMessages"></div>
+  </div>
+  <input type="text" id="chatbotInput" placeholder="Type a message..." class="chatbot-input">
+  <button onclick="sendMessage()" class="chatbot-send-btn">Send</button>
+</div>
   <!-- Script -->
   <script src="js/script.js"></script>
   <script src="js/countdown.js"></script>
   <script src="js/form.js"></script>
   <script src="js/top.js"></script>
+  <script src="js/chatbot.js"></script>
 
 
 </body>
