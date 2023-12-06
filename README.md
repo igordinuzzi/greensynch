@@ -3,32 +3,32 @@
 ## Introduction
 The **GreenSync** landing page is designed to showcase the innovative and eco-friendly smartwatch, GreenSync. This page combines aesthetics with functionality, providing users with a comprehensive and engaging experience as they learn about the smartwatch.
 
-![Mockup](doc/mockup/mockup.jpg)
+![GreenSync smartwatch landing page mockup](doc/mockup/mockup.jpg)
 
 ## Features of the Landing Page
 - **Responsive Design**: Optimized for a seamless experience on desktops, tablets, and mobile devices.
-![Feature 1](doc/features/01_01_features.jpg)
-![Feature 2](doc/features/01_02_features.jpg)
+![GreenSync on desktop view](doc/features/01_01_features.jpg)
+![GreenSync on mobile device](doc/features/01_02_features.jpg)
 - **Interactive Chatbot**: Provides immediate assistance and answers to common queries.
-![Feature 3](doc/features/02_01_chatbot.jpg)
-![Feature 4](doc/features/02_02_chatbot.jpg)
-![Feature 5](doc/features/02_03_chatbot.jpg)
+![Chatbot feature in use](doc/features/02_01_chatbot.jpg)
+![Chatbot interaction example](doc/features/02_02_chatbot.jpg)
+![Chatbot assistance example](doc/features/02_03_chatbot.jpg)
 - **Dynamic Countdown Timer**: Builds anticipation by counting down to the product launch.
-![Feature 6](doc/features/03_countdown.jpg)
+![Countdown timer to product launch](doc/features/03_countdown.jpg)
 - **Gallery Section**: Showcases the smartwatch through various images and scenarios.
-![Feature 7](doc/features/03_countdown.jpg)
+![Smartwatch gallery section](doc/features/03_countdown.jpg)
 - **Pre-Order Section**: Allows visitors to pre-order the GreenSync smartwatch.
-![Feature 8](doc/features/04_gallery.jpg)
+![Pre-order section for GreenSync](doc/features/04_gallery.jpg)
 - **Accordion Feature for Details**: Organizes information about the smartwatch in a compact, easy-to-navigate format.
-![Feature 9](doc/features/08_accordion.jpg)
+![Accordion information feature](doc/features/08_accordion.jpg)
 - **Smooth Scroll and Navigation**: Enhances user experience with easy navigation throughout the page.
-![Feature 10](doc/features/09_top.jpg)
+![Smooth navigation feature](doc/features/09_top.jpg)
 - **Newsletter Subscription**: Enables visitors to sign up for updates about the launch and other news.
-![Feature 11](doc/features/06_newsletter.jpg)
+![Newsletter subscription section](doc/features/06_newsletter.jpg)
 - **Contact Information and Social Media Links**: Offers easy access to further information and engagement.
-![Feature 12](doc/features/07_social.jpg)
+![Contact and social media links](doc/features/07_social.jpg)
 - **Custom Favicon**: A unique favicon representing the GreenSync brand enhances brand recognition and user experience.
-![Feature 13](doc/features/10_favicon.jpg)
+![GreenSync custom favicon](doc/features/10_favicon.jpg)
 
 ## Technology
 - HTML/CSS for structure and styling, ensuring a responsive and visually appealing layout.
@@ -59,16 +59,17 @@ git clone https://github.com/igordinuzzi/greensynch.git
 ## Functionalities
 
 #Chatbot
-![Func 01](doc/func/01_funct.jpg)
+![Chatbot functionality](doc/func/01_funct.jpg)
 
 #Back to top
-![Func 01](doc/func/02_funct.jpg)
+![Back to top feature](doc/func/02_funct.jpg)
 
 #Countdown
-![Func 01](doc/func/03_funct.jpg)
+![Countdown timer functionality](doc/func/03_funct.jpg)
 
 ## Wireframes
-![Wireframes](doc/wireframes/wireframes.jpg)
+![Wireframe sketches of landing page](doc/wireframes/wireframes.jpg)
+![Palette and styles](doc/wireframes/palette.jpg)
 
 ## User Stories
 
@@ -107,6 +108,19 @@ Include additional images showcasing the watch's style and design.
 Provide detailed information on health features and app integration.
 
 ## Validations
+
+# W3C
+![Validator](doc/check/check-01.jpg)
+
+# Lighthouse
+![Validator](doc/check/check-02.jpg)
+
+# JS
+![Validator](doc/check/check-03.jpg)
+![Validator](doc/check/check-04.jpg)
+![Validator](doc/check/check-05.jpg)
+![Validator](doc/check/check-06.jpg)
+![Validator](doc/check/check-07.jpg)
 
 ## Credits
 - **Design**: Igor Dinuzzi
