@@ -274,9 +274,11 @@ body {
   
 /* Add a container for the accordion */
 .accordion-container {
-  max-width: 100%; /* Adjust the max-width as needed */
-  padding-left: 60px; /* Maintain a left padding for the accordion */
-  padding-right: 60px; /* Maintain a right padding for the accordion */
+  max-width: 100%; 
+  padding-left: 60px; 
+  padding-right: 60px; 
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .accordion-header {
@@ -289,7 +291,18 @@ body {
   align-items: center;
   cursor: pointer;
   color: var(--primary-color);
-  font-size: 24px;
+  font-size: 3em; 
+}
+
+/* Styling for the <i> elements inside .accordion-header */
+.accordion-header i {
+  font-size: 0.5em; /* Adjust the font size of the icon */
+  color: var(--secondary-color); /* Set a specific color for the icon */
+  margin-right: 10px; /* Add some margin to the right of the icon */
+}
+
+.accordion-header:hover {
+  color: var(--secondary-color); 
 }
 
 .accordion-content {
@@ -307,22 +320,20 @@ body {
   color: var(--secondary-color);
 }
 
+/* Styling for the arrow icon inside the .arrow span */
+.arrow i {
+  font-size: 0.5em; 
+  color: inherit; 
+}
+
 .arrow.up {
   transform: rotate(180deg);
 }
 
-.accordion-label,
-{
-  font-size: 24px; 
-  color: var(--secondary-color);
-  margin-right: 5px;
-}
-
-
 @media (max-width: 768px) {
   .accordion-header {
     padding: 15px; /* Increased padding for smaller screens */
-    font-size: 1.2em; /* Larger font size for better readability */
+    font-size: 1.8em; /* Larger font size for better readability */
   }
 
   .accordion-content {
@@ -330,6 +341,7 @@ body {
     margin-bottom: 40px; /* Reduced margin for mobile screens */
   }
 }
+
 
 .gallery-container {
   display: flex;
