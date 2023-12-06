@@ -411,6 +411,7 @@ body {
   display: inline-block;
   padding: 20px;
   border-radius: 10px;
+  font-size: 3em;
 }
 
 /* Adjust margins on the h2 element */
