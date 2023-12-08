@@ -82,6 +82,65 @@ As a tech enthusiast, I'm interested in the latest gadgets. I want a landing pag
 Story 3: Busy Professional
 As a busy professional, I need a quick and efficient way to understand the product and its benefits. The landing page should allow me to grasp the key features quickly and provide an easy pre-order process.
 
+### User Flow
+
+1. **Landing on the Homepage**
+   - User arrives at the homepage.
+   - Views the hero section with the tagline "GreenSync: Time to Sync with Nature".
+
+2. **Exploring Sections**
+   - Scrolls through various sections: Introduction, About, Sustainable Lifestyle, Health Tracking, etc.
+   - Interacts with the accordion in the Features section to learn more about specific features.
+
+3. **Viewing the Gallery**
+   - Browses through the image gallery showcasing the smartwatch in different scenarios.
+
+4. **Learning About the Product**
+   - Reads detailed descriptions about sustainability, health and wellness features.
+
+5. **Pre-Ordering the Product**
+   - Navigates to the pre-order section.
+   - Reviews the price and product details.
+   - Clicks on the 'Pre-order now' button.
+
+6. **Signing Up for Updates**
+   - Scrolls to the newsletter section.
+   - Enters name and email, and agrees to terms.
+   - Clicks on 'Send' to subscribe.
+
+7. **Contacting and Following**
+   - Scrolls to the footer for contact information and social media links.
+   - May follow on social platforms or contact via phone or email.
+
+8. **Exploring Additional Resources**
+   - May visit the Terms and Conditions page.
+   - Engages with the chatbot for additional questions.
+
+### Task Flow
+
+1. **Pre-Ordering a Smartwatch**
+   - User lands on the homepage.
+   - Scrolls or navigates to the 'Pre-Order' section.
+   - Reviews the product details and price.
+   - Clicks on 'Pre-order now' to initiate the purchase.
+
+2. **Signing Up for Newsletters**
+   - User accesses the newsletter section at the bottom of the homepage.
+   - Enters their name and email in the respective fields.
+   - Agrees to the terms and conditions.
+   - Clicks on 'Send' to complete subscription.
+
+3. **Using the Chatbot for Inquiries**
+   - User clicks on the chatbot toggle button.
+   - Types in a question or selects a common query.
+   - Reviews the response provided by the chatbot.
+   - Closes the chatbot if satisfied or follows up for more information.
+
+4. **Following on Social Media**
+   - User navigates to the footer.
+   - Clicks on desired social media icons (Facebook, Twitter, Instagram).
+   - Redirects to respective social media pages and can follow for updates.
+
 ## Usability Testing Report
 Overview
 Usability testing was conducted with five fictitious participants to assess the user experience and interface design of the GreenSync landing page.
