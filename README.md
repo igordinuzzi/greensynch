@@ -2,8 +2,9 @@
 
 ## Introduction
 The **GreenSync** landing page is designed to showcase the innovative and eco-friendly smartwatch, GreenSync. This page combines aesthetics with functionality, providing users with a comprehensive and engaging experience as they learn about the smartwatch.
-
+Live webpage [here](https://igordinuzzi.github.io/greensynch/)
 ![GreenSync smartwatch landing page mockup](doc/mockup/mockup.jpg)
+
 
 ## Features of the Landing Page
 - **Responsive Design**: Optimized for a seamless experience on desktops, tablets, and mobile devices.
