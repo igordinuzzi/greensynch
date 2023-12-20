@@ -15,6 +15,7 @@
 - [Task Flow](#task-flow)
 - [Usability Testing Report](#usability-testing-report)
 - [Validations](#validations)
+- [Deployment](#deployment)
 - [Credits](#credits)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -235,6 +236,26 @@ Provide detailed information on health features and app integration.
 ![Validator](doc/check/check-05.jpg)
 ![Validator](doc/check/check-06.jpg)
 ![Validator](doc/check/check-07.jpg)
+
+## Deployment:
+
+Version Control with Git and GitHub:
+The development of the site was facilitated using the Visual Studio Code editor. Key Git commands were employed to manage version control and code updates:
+
+    git add: Used for adding files to the staging area before committing.
+    git commit -m “commit message”: This command logged changes to the local repository with a descriptive message for each update.
+    git push: This final step pushed all committed changes to the remote repository on GitHub, ensuring continuous synchronization of the project.
+
+Deployment to GitHub Pages:
+The site was successfully deployed to GitHub Pages with the following steps:
+
+    In the GitHub repository, navigate to the ‘Settings’ tab.
+    From the left-hand menu, select 'Pages'.
+    In the 'Source' section, choose the 'main' branch from the drop-down menu.
+    Click 'Save' to initiate the deployment.
+    Upon successful deployment, a green banner appears displaying a live link to the published site.
+
+The live version of the site is accessible through the provided link in the green banner on the GitHub repository page.
 
 ## Credits
 - **Design**: Igor Dinuzzi
