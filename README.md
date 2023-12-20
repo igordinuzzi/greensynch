@@ -1,12 +1,31 @@
 # GreenSync - Eco-Friendly Smartwatch Landing Page
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technology](#technology)
+- [How to Interact with the Page](#how-to-interact-with-the-page)
+- [Installation](#installation)
+- [User Interaction](#user-interaction)
+- [Functionalities](#functionalities)
+- [Wireframes](#wireframes)
+- [Learning Outcomes](#learning-outcomes)
+- [User Stories](#user-stories)
+- [User Flow](#user-flow)
+- [Task Flow](#task-flow)
+- [Usability Testing Report](#usability-testing-report)
+- [Validations](#validations)
+- [Credits](#credits)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ## Introduction
 The **GreenSync** landing page is designed to showcase the innovative and eco-friendly smartwatch, GreenSync. This page combines aesthetics with functionality, providing users with a comprehensive and engaging experience as they learn about the smartwatch.
 Live webpage [here](https://igordinuzzi.github.io/greensynch/)
 ![GreenSync smartwatch landing page mockup](doc/mockup/mockup.jpg)
 
 
-## Features of the Landing Page
+## Features
 - **Responsive Design**: Optimized for a seamless experience on desktops, tablets, and mobile devices.
 ![GreenSync on desktop view](doc/features/01_01_features.jpg)
 ![GreenSync on mobile device](doc/features/01_02_features.jpg)
@@ -72,6 +91,41 @@ git clone https://github.com/igordinuzzi/greensynch.git
 ![Wireframe sketches of landing page](doc/wireframes/wireframes.jpg)
 ![Palette and styles](doc/wireframes/palette.jpg)
 
+## Learning Outcomes
+
+Objective: To demonstrate and enhance skills in web design, user experience (UX), and web development through a practical project.
+
+- Web Design Proficiency:
+Gain hands-on experience in designing a responsive and aesthetically pleasing website.
+Understand the principles of colour theory, layout, and typography in web design.
+
+- UX Understanding:
+Develop skills in creating user-centric designs that cater to various user personas (like eco-conscious consumers, tech enthusiasts, etc.).
+Learn to construct effective user flows and task flows that enhance usability and user engagement.
+
+- Technical Skills in Web Development:
+Enhance coding skills in HTML, CSS, and JavaScript.
+Implement interactive elements like chatbots and countdown timers to improve user interaction.
+
+- Project Management:
+Develop project management skills by planning, executing, and delivering a web design project.
+- Learn to work with deadlines, organize content, and manage version control (using Git).
+
+- Analytical Thinking:
+Understand the importance of usability testing and how to apply feedback to improve the website.
+Analyze user interactions to make data-driven decisions for website enhancements.
+
+- Creative Problem Solving:
+Learn to creatively solve design and technical challenges encountered during the project.
+Adapt design and functionality based on user needs and technological constraints.
+
+- Professional Development:
+Build a portfolio piece that demonstrates web design and development skills.
+Gain experience in presenting and explaining design decisions, enhancing communication skills.
+
+- Sustainable Design Awareness:
+Develop an understanding of how to incorporate sustainability into web design and product presentation.
+
 ## User Stories
 
 Story 1: Eco-conscious Consumer
@@ -83,7 +137,7 @@ As a tech enthusiast, I'm interested in the latest gadgets. I want a landing pag
 Story 3: Busy Professional
 As a busy professional, I need a quick and efficient way to understand the product and its benefits. The landing page should allow me to grasp the key features quickly and provide an easy pre-order process.
 
-### User Flow
+## User Flow
 
 1. **Landing on the Homepage**
    - User arrives at the homepage.
@@ -117,7 +171,7 @@ As a busy professional, I need a quick and efficient way to understand the produ
    - May visit the Terms and Conditions page.
    - Engages with the chatbot for additional questions.
 
-### Task Flow
+## Task Flow
 
 1. **Pre-Ordering a Smartwatch**
    - User lands on the homepage.
