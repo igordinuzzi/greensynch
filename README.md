@@ -89,6 +89,20 @@ git clone https://github.com/igordinuzzi/greensynch.git
 ![Countdown timer functionality](doc/func/03_funct.jpg)
 
 ## Wireframes
+
+```css
+   :root {
+  --main-font: 'Barlow', sans-serif;
+  --primary-color: #F4F9F1;
+  --secondary-color: #92FFAB;
+  --tertiary-color: #2D4546;
+  --text-color: #282c45;
+  --link-color: #92FFAB;
+  --hover-color: #BDC5B9;
+  --background-color: #05090A;
+}
+```
+
 ![Wireframe sketches of landing page](doc/wireframes/wireframes.jpg)
 ![Palette and styles](doc/wireframes/palette.jpg)
 
